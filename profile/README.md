@@ -31,8 +31,8 @@ secara terintegrasi dan transparan.
 
 | Repository | Deskripsi | Status |
 |----------|----------|--------|
-| **sip3m-backend** | REST API backend menggunakan Go (Gin Framework) | 🟢 Active |
-| **sip3m-frontend** | Aplikasi frontend berbasis React | 🟢 Active |
+| **sip3m-be** | REST API backend menggunakan Go (Gin Framework) | 🟢 Active |
+| **sip3m-fe** | Aplikasi frontend berbasis React | 🟢 Active |
 | **.github** | Dokumentasi & profil organisasi | 🟢 Active |
 
 ---
