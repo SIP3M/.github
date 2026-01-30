@@ -44,7 +44,7 @@ institusional berbasis teknologi modern.
 
 | Nama | Role | GitHub |
 |----|----|----|
-| Faqih Asyari | Backend Developer | @faqihasyari |
+| Faqih Asy'ari | Backend Developer | @faqihasyari |
 | M. Fahmi Hafidz Bahrul’ilmi | Frontend Developer | @username |
 | Mohammad Hafiz Naufal | UI/UX Designer | @username |
 | Faqih Asy'ari | Quality Assurance | @username |
